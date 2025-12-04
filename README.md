@@ -15,7 +15,7 @@ Analizar el comportamiento de las ventas del conjunto de datos **Global Supersto
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - **Python 3**
 - **Pandas**
@@ -27,7 +27,7 @@ Analizar el comportamiento de las ventas del conjunto de datos **Global Supersto
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 - `ventas_limpias.csv` → Dataset limpio final  
 - `1_limpieza_datos.ipynb` → Proceso de limpieza y transformación de datos  
@@ -96,6 +96,7 @@ Estudiante de Administración de Riesgos. Big Data y Análisis de Datos
 
 ---
 
-✅ Proyecto desarrollado como parte de mi portafolio profesional en análisis de datos.
+ Proyecto desarrollado como parte de mi portafolio profesional en análisis de datos.
+
 
 
