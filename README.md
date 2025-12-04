@@ -1,4 +1,4 @@
-# Dashboard de Análisis de Ventas – Global Superstore (2011–2014)
+# Análisis de Ventas – Global Superstore (2011–2014)
 
 Este proyecto presenta un análisis completo de datos de ventas utilizando **Python para el procesamiento de datos** y **Power BI para la visualización interactiva**, con el objetivo de extraer indicadores clave de desempeño (KPIs) y apoyar la toma de decisiones empresariales.
 
@@ -97,6 +97,7 @@ Estudiante de Administración de Riesgos. Big Data y Análisis de Datos
 ---
 
  Proyecto desarrollado como parte de mi portafolio profesional en análisis de datos.
+
 
 
 
